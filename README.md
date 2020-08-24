@@ -1,2 +1,2 @@
 # quizapp-android
-<img src="./screenshot.png">
+<img src="./screenshot.png" />
